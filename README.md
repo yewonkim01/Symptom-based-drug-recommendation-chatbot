@@ -8,4 +8,13 @@
 ## Dataset
 - Drug information overview dataset from the Public Data Portal. 
 
+## Code
+### Install dependencies
+```
+python -m pip install -r requirements.txt
+```
+
+### Experimentation
+All experimental code can be found in `drug_rec.ipynb`. This notebook contains dataprocessing, applications of GPT-3.5 and Retrieval-Augmented Generation (RAG) techniques for accurate drug recommendations.
+
 
